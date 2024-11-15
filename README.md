@@ -25,7 +25,7 @@ de datos y configuraciones de entorno.
 * **vendor**:
   * Directorio que contendrá las dependencias instaladas mediante Composer.
 Recuerda ejecutar composer install para poblar esta carpeta con las bibliotecas necesarias.
-* logs:
+* **logs**:
   * Carpeta para registrar eventos y errores, útil para el monitoreo y depuración.
 
 Para empezar a trabajar con la plantilla simplemente hay que hace un pull e ignorar los ficheros *.gitkeep*.
