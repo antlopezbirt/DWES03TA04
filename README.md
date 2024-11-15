@@ -27,3 +27,5 @@ de datos y configuraciones de entorno.
 Recuerda ejecutar composer install para poblar esta carpeta con las bibliotecas necesarias.
 * logs:
   * Carpeta para registrar eventos y errores, útil para el monitoreo y depuración.
+
+Para empezar a trabajar con la plantilla simplemente hay que hace un pull e ignorar los ficheros *.gitkeep*.
